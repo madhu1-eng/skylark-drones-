@@ -1,0 +1,24 @@
+# Skylark Drones AI Operations Dashboard
+
+Live Demo:
+https://skylark-drones--madhukanyadas1.replit.app
+
+## Features
+- Automated pilot-drone allocation
+- Conflict detection
+- Budget validation
+- Weather compliance logic
+- Urgent mission reassignment
+- Google Sheets integration
+- Live dashboard interface
+
+## Tech Stack
+- Python
+- Flask
+- Google Sheets API
+- Replit Deployment
+
+## How to Run
+1. Add Google service account credentials.json
+2. Install dependencies
+3. Run agent.py
